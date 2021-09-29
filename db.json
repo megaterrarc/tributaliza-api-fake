@@ -1,0 +1,25 @@
+{
+
+  "syncconf": {
+        "companyId": "",
+        "isSync": true,
+        "system": {
+           "name": ""
+        },
+        "jdbcUrl": "",
+        "jdbcPassword": "",
+        "jdbcUser": "",
+        "jdbcDriver": "",
+        "queries": [
+            {
+               "name": ""
+               "query": ""
+            },
+            {
+               "name": ""
+               "query": ""
+            }
+        ]
+  }
+
+}
