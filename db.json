@@ -1,25 +1,26 @@
 {
 
   "syncconf": {
-        "companyId": "",
+        "companyCNPJ": "04806342548",
         "isSync": true,
         "system": {
-           "name": ""
+           "name": "",
+           "queries": [
+               {
+                  "name": "",
+                  "query": ""
+               },
+               {
+                  "name": "",
+                  "query": ""
+               }
+           ]
         },
         "jdbcUrl": "",
         "jdbcPassword": "",
         "jdbcUser": "",
         "jdbcDriver": "",
-        "queries": [
-            {
-               "name": "",
-               "query": ""
-            },
-            {
-               "name": "",
-               "query": ""
-            }
-        ]
+        
   }
 
 }
